@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sunilkhetri/FinalPRoject.git/static/css/main.ec9c77ff.css",
+    "main.js": "/Sunilkhetri/FinalPRoject.git/static/js/main.27805833.js",
+    "static/media/mobileImg.jpg": "/Sunilkhetri/FinalPRoject.git/static/media/mobileImg.8e90c6cf9d0e6ce14bda.jpg",
+    "index.html": "/Sunilkhetri/FinalPRoject.git/index.html",
+    "main.ec9c77ff.css.map": "/Sunilkhetri/FinalPRoject.git/static/css/main.ec9c77ff.css.map",
+    "main.27805833.js.map": "/Sunilkhetri/FinalPRoject.git/static/js/main.27805833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec9c77ff.css",
+    "static/js/main.27805833.js"
+  ]
+}
