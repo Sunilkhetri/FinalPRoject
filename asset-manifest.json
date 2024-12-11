@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sunilkhetri/FinalPRoject.git/static/css/main.ec9c77ff.css",
-    "main.js": "/Sunilkhetri/FinalPRoject.git/static/js/main.27805833.js",
-    "static/media/mobileImg.jpg": "/Sunilkhetri/FinalPRoject.git/static/media/mobileImg.8e90c6cf9d0e6ce14bda.jpg",
-    "index.html": "/Sunilkhetri/FinalPRoject.git/index.html",
-    "main.ec9c77ff.css.map": "/Sunilkhetri/FinalPRoject.git/static/css/main.ec9c77ff.css.map",
-    "main.27805833.js.map": "/Sunilkhetri/FinalPRoject.git/static/js/main.27805833.js.map"
+    "main.css": "/Sunilkhetri/FinalProject.git/static/css/main.ec9c77ff.css",
+    "main.js": "/Sunilkhetri/FinalProject.git/static/js/main.5858eae3.js",
+    "static/media/mobileImg.jpg": "/Sunilkhetri/FinalProject.git/static/media/mobileImg.8e90c6cf9d0e6ce14bda.jpg",
+    "index.html": "/Sunilkhetri/FinalProject.git/index.html",
+    "main.ec9c77ff.css.map": "/Sunilkhetri/FinalProject.git/static/css/main.ec9c77ff.css.map",
+    "main.5858eae3.js.map": "/Sunilkhetri/FinalProject.git/static/js/main.5858eae3.js.map"
   },
   "entrypoints": [
     "static/css/main.ec9c77ff.css",
-    "static/js/main.27805833.js"
+    "static/js/main.5858eae3.js"
   ]
 }
